@@ -5,9 +5,8 @@ Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
 | Project number | Title                                      | Description                                                                                  |
 |----------------|--------------------------------------------|----------------------------------------------------------------------------------------------|
 | 1       | Customer Churn Prediction for Beta Bank|Developed a churn prediction model for Beta Bank, achieving an F1 score above 0.59 using class imbalance techniques.|
-| 2              | Used Car Price Prediction for Rusty Bargain | Trained regression models to predict used car prices based on historical listings.       |
-| 3              | Gold Recovery Optimization                        | Developed an ML pipeline to predict recovery rates from flotation plant data. |
-| 4              | Time Series Forecasting of Taxi Orders for Sweet Lift Company  | Built a time series model to forecast hourly taxi demand, using resampled airport data and regression techniques, achieving RMSE under 48. |
+| 2              | Gold Recovery Optimization                        | Developed an ML pipeline to predict recovery rates from flotation plant data. |
+| 3              | Time Series Forecasting of Taxi Orders for Sweet Lift Company  | Built a time series model to forecast hourly taxi demand, using resampled airport data and regression techniques, achieving RMSE under 48. |
 
 # 👋 Hi, I'm Asad Mehmood
 
