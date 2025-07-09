@@ -4,7 +4,7 @@ Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
 
 | Project number | Title                                      | Description                                                                                  |
 |----------------|--------------------------------------------|----------------------------------------------------------------------------------------------|
-| 1              | Customer Churn Prediction for Beta Bank                      | Built a model to predict customer churn using logistic regression and random forests. AUC-ROC: 0.82+. |
+| 1              | Customer Churn Prediction for Beta Bank                      | Developed a machine learning model to identify customers at risk of leaving the bank, enabling proactive retention strategies. |
 | 2              | Used Car Price Prediction for Rusty Bargain | Trained regression models to predict used car prices based on historical listings.       |
 | 3              | Gold Recovery Optimization                        | Developed an ML pipeline to predict recovery rates from flotation plant data. |
 | 4              | Taxi Order Forecasting                        | Built a time series forecasting model using LightGBM to predict hourly orders. |
