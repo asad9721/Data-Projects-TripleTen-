@@ -55,8 +55,8 @@ A collection of real-world projects built during my Data Science training. Each 
 
 ## 📫 Let’s Connect
 
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- **GitHub:** [github.com/your-username](https://github.com/your-username)
+- **LinkedIn:** [linkedin.com/in/asad-mehmood-tripleten](https://linkedin.com/in/asad-mehmood-tripleten)
+- **GitHub:** [github.com/asad9721](https://github.com/asad9721)
 
 ---
 
